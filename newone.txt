@@ -1,0 +1,28 @@
+﻿AboutCode.org
+API Client Tools at Google
+Buildroot
+Canadian Center for Computational Genomics
+CBMI@UTHSC
+Center for Research in Open Source Software at UC Santa Cruz
+
+
+
+Cuneiform Digital Library Initiative (CDLI)******
+FrameNet Brasil at the Federal University of Juiz de Fora*******
+gprMax********
+Libre Space Foundation*********
+MBDyn - Multibody Dynamics********
+MetaBrainz Foundation Inc***
+Open Astronomy
+Pitivi***
+Project PANOPTES**********
+SageMath**
+Software Heritage ***
+syslog-ng **
+TensorFlow *
+
+
+
+1303
+testno29
+day 6

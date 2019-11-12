@@ -1,0 +1,49 @@
+aimacode
+Blender Foundation
+BRL-CAD
+Catrobat
+CCExtractor Development
+CloudCV
+Computational Biology @ University of Nebraska-Lincoln
+Django Software Foundation
+Drupal
+Fedora Project
+FFmpeg
+FOSSASIA
+Free and Open Source Silicon Foundation
+FreeBSD
+Genes, Genomes and Variation
+Gentoo Foundation
+Git
+GNOME
+GNU Octave
+GNU Radio
+Inkscape
+JBoss Community
+LabLua
+LibreOffice
+Matrix.org
+Moodle
+Mozilla
+MuseScore
+National Resource for Network Biology (NRNB)
+Netfilter project
+NumFOCUS
+Open Bioinformatics Foundation
+Open Chemistry
+OpenMRS
+OpenStreetMap
+Oppia Foundation
+Performance Co-Pilot
+Public Lab
+Python Software Foundation
+QEMU
+R project for statistical computing
+ReactOS
+Red Hen Lab
+RTEMS Project
+Ruby Science Foundation
+ScummVM
+strace
+Sugar Labs
+SymPy
